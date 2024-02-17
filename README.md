@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @akshayrivers
-- 🎩 I’m interested in learning technologies 
+- 🎩 I’m interested in learning new technologies 
 - 🧑‍💻 I’m currently learning Java 
 - 💞️ I’m looking for advice and suggestions on building projects
 - 📫 Contact: pumkininriver@gmail.com
