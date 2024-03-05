@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @akshayrivers
+- 👋 Hi, I’m @vinod akshat
 - 🎩 I’m interested in learning new technologies 
 - 🧑‍💻 I’m currently learning Java 
 - 💞️ I’m looking for advice and suggestions on building projects
