@@ -1,7 +1,11 @@
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=akshayrivers)  
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/akshayforrivers.png?v=6)](https://tryhackme.com/p/akshayforrivers)
+![](https://komarev.com/ghpvc/?username=akshayrivers)
+### *what is conviction?* ###
+
+—  **AN IDIOT**
+
+<p align="center">· · · · · · · · ·</p>
 
 
 
@@ -23,4 +27,13 @@
 
 — **NEKRASSOV** (translated by Juliet Soskice)
 
+
+<p align="center">· · · · · · · · ·</p>
+
+
+**FOOL'S ENDEAVOURS:**
+
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/akshayforrivers.png?v=6)](https://tryhackme.com/p/akshayforrivers)
 </div>
+
+
